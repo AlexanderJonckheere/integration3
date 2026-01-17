@@ -46,26 +46,26 @@ body {
 }
 /* WALTER */
 #walter__title {
-  font-size: 5.25rem;
+  font-size: 4.25rem;
   color: #ffffff;
   z-index: 1;
 }
 
 /* VAN (power word) */
 #van__title {
-  font-size: 3.75rem;
+  font-size: 3rem;
   color: #FD71FF;
-  margin-top: -0.85em;
-  margin-left: 19rem;
+  margin-top: -0.80em;
+  margin-left: 15rem;
   /* main overlap */
   z-index: 3;
 }
 
 /* BEIRENDONCK */
 #Beirendonck__title {
-  font-size: 3.5rem;
+  font-size: 2.75rem;
   color: #ffffff;
-  margin-top: -0.5em;
+  margin-top: -0.56em;
   /* secondary overlap */
   z-index: 2;
 }
